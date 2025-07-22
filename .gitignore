@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg
+*.egg-info/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+covid_classifier_balanced.h5
+
+
+# Sensitive information (example)
+.env # Environment variables
