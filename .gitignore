@@ -23,3 +23,5 @@ covid_classifier_balanced.h5
 
 # Sensitive information (example)
 .env # Environment variables
+config.bat
+node_modules
